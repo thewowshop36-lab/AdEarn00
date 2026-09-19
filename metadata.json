@@ -1,0 +1,8 @@
+{
+  "name": "Remix AdEarn",
+  "description": "Watch rewarded ads to earn income, upgrade your tier for higher limits, and withdraw earnings via USDT.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
